@@ -1,0 +1,6 @@
+Z:\c#\AcademyApp1\Models\bin\Debug\Models.dll
+Z:\c#\AcademyApp1\Models\bin\Debug\Models.pdb
+Z:\c#\AcademyApp1\Models\obj\Debug\Models.csprojAssemblyReference.cache
+Z:\c#\AcademyApp1\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+Z:\c#\AcademyApp1\Models\obj\Debug\Models.dll
+Z:\c#\AcademyApp1\Models\obj\Debug\Models.pdb

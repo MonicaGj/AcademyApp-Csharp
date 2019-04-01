@@ -1,0 +1,12 @@
+Z:\c#\AcademyApp1\Models\bin\Release\Models.dll
+Z:\c#\AcademyApp1\Models\bin\Release\Models.pdb
+Z:\c#\AcademyApp1\Models\obj\Release\Models.csproj.CoreCompileInputs.cache
+Z:\c#\AcademyApp1\Models\obj\Release\Models.dll
+Z:\c#\AcademyApp1\Models\obj\Release\Models.pdb
+Z:\c#\AcademyApp1\Models\obj\Release\Models.csprojAssemblyReference.cache
+D:\sedc\csharp\AcademyApp1\Models\bin\Release\Models.dll
+D:\sedc\csharp\AcademyApp1\Models\bin\Release\Models.pdb
+D:\sedc\csharp\AcademyApp1\Models\obj\Release\Models.csprojAssemblyReference.cache
+D:\sedc\csharp\AcademyApp1\Models\obj\Release\Models.csproj.CoreCompileInputs.cache
+D:\sedc\csharp\AcademyApp1\Models\obj\Release\Models.dll
+D:\sedc\csharp\AcademyApp1\Models\obj\Release\Models.pdb
